@@ -12,8 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-component-E0QoxSiZA6)
+- Live Site URL: [GitHub pages](https://saroshfarhan.github.io/product-preview-card/)
 
 ## My process
 
